@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Angular, Nest and React
+- 🌱 I’m currently learning ReactNative and Node
+
 <!--
 **KauanBonatto/KauanBonatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
