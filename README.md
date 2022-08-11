@@ -1,7 +1,9 @@
 # Kauan Bonatto
 
-[![Linkedin Badge](https://img.shields.io/badge/-Kauan%20Bonatto-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauan-bonatto-777420123/)](https://www.linkedin.com/in/kauan-bonatto-777420123/) 
-[![Gmail Badge](https://img.shields.io/badge/-kauanbonatto01@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kauanbonatto01@gmail.com)](mailto:kauanbonatto01@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Kauan%20Bonatto-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauan-bonatto-777420123/)](https://www.linkedin.com/in/kauan-bonatto-777420123/) 
+[![Gmail Badge](https://img.shields.io/badge/-kauanbonatto01@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kauanbonatto01@gmail.com)](mailto:kauanbonatto01@gmail.com)
+<a href="https://slack.com/intl/pt-br/"><img src="https://img.shields.io/badge/-Kauan%20Bonatto-4A154B?style=flat-square&logo=slack&logoColor=white" /></a>
+
 
 <!--
 **KauanBonatto/KauanBonatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
