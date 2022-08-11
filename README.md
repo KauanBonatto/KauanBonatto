@@ -46,7 +46,7 @@ I started programming in 2019 using JavaScript, and from there I improved my ski
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KauanBonatto&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauanBonatto&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauanBonatto&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <div id="footer" align="center">
   <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="280"/>
