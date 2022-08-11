@@ -4,9 +4,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-kauanbonatto01@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kauanbonatto01@gmail.com)](mailto:kauanbonatto01@gmail.com)
 <a href="https://slack.com/intl/pt-br/"><img src="https://img.shields.io/badge/-Kauan%20Bonatto-4A154B?style=flat-square&logo=slack&logoColor=white" /></a>
 
-<div id="header" align="left">
+<!-- <div id="header" align="left">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="280"/>
-</div>
+</div> -->
 
 ---
 
