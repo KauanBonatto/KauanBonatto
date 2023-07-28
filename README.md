@@ -12,7 +12,7 @@
 
 <!-- ### :man_technologist: About Me : -->
 
-I am a Front-End Web Developer from Tx de Freitas - BA, passionate about technology.
+I am a Full-Stack Web Developer from Tx de Freitas - BA, passionate about technology.
 
 I started programming in 2019 using JavaScript, and from there I improved my skills through curiosity and a lot of code
 
