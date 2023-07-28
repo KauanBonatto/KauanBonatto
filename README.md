@@ -10,7 +10,7 @@
 
 ---
 
-### :man_technologist: About Me :
+<!-- ### :man_technologist: About Me : -->
 
 I am a Front-End Web Developer from Tx de Freitas - BA, passionate about technology.
 
